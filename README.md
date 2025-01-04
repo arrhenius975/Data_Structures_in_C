@@ -24,6 +24,7 @@ The notes cover Linked Lists, Stacks, Queues, and Expression Evaluations (Infix,
    git clone https://github.com/arrhenius975/Data_Structures_in_C.git
 2. Explore the `DataStructureNotes-1.pdf` for concepts and theoretical explanations.
 3. Compile and run the provided C programs:
+   for example: to run the code provided for linked list one can create a c source file named linked_list.c (for example) and run         using the terminal as follows
    ```bash
    gcc linked_list.c -o linked_list
    ./linked_list
