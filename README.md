@@ -45,5 +45,6 @@ This work is based on:
 - *Fundamentals of Data Structures in C* by Horowitz et al.
 
 ## License
-Licensed under the MIT License. Feel free to use and contribute!
+This project is licensed under the [MIT License](LICENSE).  
+See the LICENSE file for more details.
 
